@@ -15,8 +15,8 @@ export class ProductsComponent implements OnInit {
     { title: 'Product 2', description: 'Description for product 2', image: 'assets/sampe2.png' },
     { title: 'Product 3', description: 'Description for product 3', image: 'assets/samp3.png' },
     { title: 'Product 4', description: 'Description for product 4', image: 'assets/sampe4.png' },
-    { title: 'Product 5', description: 'Description for product 5', image: 'assets/sample5.jpg' },
-    { title: 'Product 6', description: 'Description for product 6', image: 'assets/sample6.jpg' }
+    { title: 'Product 5', description: 'Description for product 5', image: 'assets/sample5.png' },
+    { title: 'Product 6', description: 'Description for product 6', image: 'assets/sample6.png' }
   ];
 
   constructor() { }
