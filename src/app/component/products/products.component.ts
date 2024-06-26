@@ -11,12 +11,12 @@ export class ProductsComponent implements OnInit {
 
   
   products = [
-    { title: 'Product 1', description: 'Description for product 1', image: 'assets/sampe.png' },
-    { title: 'Product 2', description: 'Description for product 2', image: 'assets/sampe2.png' },
-    { title: 'Product 3', description: 'Description for product 3', image: 'assets/samp3.png' },
-    { title: 'Product 4', description: 'Description for product 4', image: 'assets/sampe4.png' },
-    { title: 'Product 5', description: 'Description for product 5', image: 'assets/sample5.png' },
-    { title: 'Product 6', description: 'Description for product 6', image: 'assets/sample6.png' }
+    { title: 'Limit Switch SZL-WL-J', description: 'Honeywell Limit Switch SZL-WL-J', image: 'assets/sampe.png' },
+    { title: 'Micro Switch-2000 ABC', description: 'BZC-2RQ18-A2 Honeywell Micro Switch', image: 'assets/sampe2.png' },
+    { title: 'Limit Switch SZL-WL-HLE', description: 'Honeywell Limit Switch SZL-WL-HLE', image: 'assets/samp3.png' },
+    { title: 'Limit Switch 1EN1-6', description: 'Honeywell Limit Switch 1EN1-6 ', image: 'assets/sampe4.png' },
+    { title: 'GKMA13', description: 'Honeywell GKMA13', image: 'assets/sample5.png' },
+    { title: '14CE1-3', description: 'Honeywell 14CE1-3', image: 'assets/sample6.png' }
   ];
 
   constructor() { }
